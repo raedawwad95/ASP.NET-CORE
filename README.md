@@ -19,6 +19,7 @@ directory run the server by:
 dotnet run
 
 Hello World in C#
+
 Before you dive into ASP.NET Core, try creating and running a simple C# application.
 In Program.cs file write line of code in c# to print “Hello World in c#” on terminal. Run dotnet run  after that.
 Note that you need to use postman to check the routes output.
@@ -39,6 +40,8 @@ In Controllers/CatController.cs file, write the required code to handle DELETE r
 
 
 Advanced Content
+
+
 Make your ASP.NET CORE  server serve up the static html and js files for the front end  .
 Use database to save the data instead of cats List.
 
