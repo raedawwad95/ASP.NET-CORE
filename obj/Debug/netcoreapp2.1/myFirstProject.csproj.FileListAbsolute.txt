@@ -1,0 +1,14 @@
+D:\GitHub\Workshops\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.deps.json
+D:\GitHub\Workshops\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.runtimeconfig.json
+D:\GitHub\Workshops\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.runtimeconfig.dev.json
+D:\GitHub\Workshops\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.dll
+D:\GitHub\Workshops\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.pdb
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.csprojAssemblyReference.cache
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.csproj.CoreCompileInputs.cache
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorAssemblyInfo.cache
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorAssemblyInfo.cs
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.AssemblyInfoInputs.cache
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.AssemblyInfo.cs
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorTargetAssemblyInfo.cache
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.dll
+D:\GitHub\Workshops\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.pdb
