@@ -11,35 +11,37 @@ The wwwroot directory contains static assets like CSS, JavaScript, and image fil
 The appsettings.json file contains configuration settings ASP.NET Core will load on startup. You can use this to store database connection strings or other things that you don't want to hard-code.
 
 
-Bare Minimum Requirements
-Installation: 
+#Bare Minimum Requirements
+
+#Installation: 
+
 Before you can start learning how to use ASP.NET CORE,make sure you have the .NET Core SDK installed on your machine. 
 After you make sure everything is installed ,after entering  ASP.NET CORE
 directory run the server by:
 dotnet run
 
-Hello World in C#
+#Hello World in C#
 
-Before you dive into ASP.NET Core, try creating and running a simple C# application.
+#Before you dive into ASP.NET Core, try creating and running a simple C# application.
 In Program.cs file write line of code in c# to print “Hello World in c#” on terminal. Run dotnet run  after that.
 Note that you need to use postman to check the routes output.
 Postman is an application for testing APIs, by sending request to the web server and getting the response back.
 
 
-In Models/Cat.cs file, Inside of there, we created a new class called Cat. add a property called Name to that class. Of course, you can add more properties to your cat, if you want to.
+#In Models/Cat.cs file, Inside of there, we created a new class called Cat. add a property called Name to that class. Of course, you can add more properties to your cat, if you want to.
 
 
-In Controllers/CatController.cs file, write the required code to handle POST request to "api/cat" route, this request should add cat to cats List.
+#In Controllers/CatController.cs file, write the required code to handle POST request to "api/cat" route, this request should add cat to cats List.
 
 
-In Controllers/CatController.cs file, write the required code to handle GET request to "api/cat" route, this request should display all cats stored in cats List.
+#In Controllers/CatController.cs file, write the required code to handle GET request to "api/cat" route, this request should display all cats stored in cats List.
 
 
-In Controllers/CatController.cs file, write the required code to handle PUT request to "api/cat" route, this request should update an existing element at our endpoint.
+#In Controllers/CatController.cs file, write the required code to handle PUT request to "api/cat" route, this request should update an existing element at our endpoint.
 In Controllers/CatController.cs file, write the required code to handle DELETE request to "api/cat" route, this request should delete an  element at our endpoint.
 
 
-Advanced Content
+#Advanced Content
 
 
 Make your ASP.NET CORE  server serve up the static html and js files for the front end  .
